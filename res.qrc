@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Img">
+        <file>16-Colors-Gridy.png</file>
+        <file>16-Images-Normal.png</file>
+        <file>16-Numbers-Normal.png</file>
+        <file>64-Images-Gridy.png</file>
+        <file>64-Images-Normal.png</file>
+        <file>64-Numbers-Normal.png</file>
+    </qresource>
+</RCC>
