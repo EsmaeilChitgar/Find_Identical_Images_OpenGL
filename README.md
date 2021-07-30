@@ -1,4 +1,4 @@
-# Find two Identical Images via OpenGL in C++
+# Finding two Identical Images Game (via OpenGL in C++)
 
 It's an easy and famous Game which is developed by OpenGL in C++. In this game two players are competing and they should find Identical Images. 
 The player who find most identical images is the winner.
